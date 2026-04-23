@@ -1,3 +1,3 @@
 # applinks
 
-- [Billing Tracker](/billing)
+- [Billing Tracker](/applinks/billing)
