@@ -1,4 +1,4 @@
 # Billing Tracker
 
-- [Privacy Policy](/privacy)
-- [Support](/support)
+- [Privacy Policy](/applinks/billing/privacy)
+- [Support](/applinks/billing/support)
