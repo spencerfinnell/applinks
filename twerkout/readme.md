@@ -1,4 +1,6 @@
-# Billing Tracker
+# Twerkout
 
-- [Privacy Policy](/applinks/billing/privacy)
-- [Support](/applinks/billing/support)
+Twerkout is a workout tracker app that helps you track your workouts and exercises.
+
+- [Privacy Policy](/applinks/twerkout/privacy)
+- [Support](/applinks/twerkout/support)
